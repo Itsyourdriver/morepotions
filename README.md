@@ -4,13 +4,14 @@ Adds a couple of potions into minecraft, all of which use existing vanilla effec
 
 
 
-# Potions Added:
+# Potions Added + Ingredients:
 
-- Leviation
-- Withering / Decay
-- Nausea
-- Glowing
-- Blindness
+- Leviation (Shulker Shell)
+- Withering / Decay (Wither Rose)
+- Nausea (Poisonous Potato)
+- Luck (Requires a thick potion, Rabbits Foot)
+- Glowing (Glow Berries)
+- Blindness (Ink Sac)
 
  
 # Default Config
