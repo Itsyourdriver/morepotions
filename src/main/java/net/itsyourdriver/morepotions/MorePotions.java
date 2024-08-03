@@ -58,7 +58,7 @@ public class MorePotions {
             }
 
             // Nausea Potion
-            if (MorePotionsCommonConfigs.DECAY_POTION_ENABLED.get() == true) {
+            if (MorePotionsCommonConfigs.NAUSEA_POTION_ENABLED.get() == true) {
                 BrewingRecipeRegistry.addRecipe(new BetterBrewingRecipe(Potions.AWKWARD,
                         Items.POISONOUS_POTATO, ModPotions.NAUSEA_POTION.get()));
             }
@@ -73,7 +73,7 @@ public class MorePotions {
             // Glowing Potion
             if (MorePotionsCommonConfigs.GLOWING_POTION_ENABLED.get() == true) {
                 BrewingRecipeRegistry.addRecipe(new BetterBrewingRecipe(Potions.AWKWARD,
-                        Items.GLOW_BERRIES, ModPotions.GLOWING_POTION.get()));
+                        Items.GLOW_INK_SAC, ModPotions.GLOWING_POTION.get()));
             }
 
             // Blindness Potion
